@@ -8,7 +8,7 @@
 ---
 - 🌱 I am currently learning Python and SQL.
 - 💬 I am learning English.
-- 🔭 I am working on Moonlight.
+- 🔭 I am working on personal projects.
 - 😄 Pronouns: He/Him.
 - ⚡ Hobbies: I like to play retro games, listen music and code.
 
