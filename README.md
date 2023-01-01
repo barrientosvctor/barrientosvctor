@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=neovim" />
+<img src="https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim" />
 </p>
 <br />
 <p align="center">Currently in <b>Spotify</b> I am listening to:</p>
