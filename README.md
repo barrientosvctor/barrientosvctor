@@ -6,7 +6,7 @@
 </p>
 
 ---
-- 🌱 I am currently learning Python and SQL.
+- 🌱 I am currently learning SQL and C.
 - 💬 I am learning English.
 - 🔭 I am working on personal projects.
 - 😄 Pronouns: He/Him.
