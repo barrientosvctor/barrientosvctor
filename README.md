@@ -22,11 +22,6 @@
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim" />
 </p>
-<br />
-<p align="center">Currently in <b>Spotify</b> I am listening to:</p>
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=enbi4j0uw51i28pgt8zgs3tcc&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" alt="Spotify Card" />
-</p>
 
 <!--
 **uShawnTS/uShawnTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
