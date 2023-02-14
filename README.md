@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I am uShawnTS</h3>
+<h3 align="center">👋 Hello! I am Victor</h3>
 <p align="center">
   <a href="https://discord.com/users/617173543582433280">Discord</a> •
   <a href="https://twitch.tv/ushawnn" target="_blank">Twitch</a> •
