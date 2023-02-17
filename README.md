@@ -1,39 +1,28 @@
-<h3 align="center">👋 Hello! I am Victor</h3>
+<h3 align="center">👋 Hola, bienvenido a mi perfil!</h3>
 <p align="center">
-  <a href="https://discord.com/users/617173543582433280">Discord</a> •
-  <a href="https://twitch.tv/ushawnn" target="_blank">Twitch</a> •
-  <a href="https://steamcommunity.com/profiles/76561199192771221" target="_blank">Steam</a>
+    <a href="https://twitch.tv/ushawnn" target="_blank">Twitch</a> •
+    <a href="https://steamcommunity.com/profiles/76561199192771221" target="_blank">Steam</a> •
+    <a href="https://discord.com/users/617173543582433280" target="_blank">Discord</a> •
+    <a href="https://barrientosvctor.netlify.app" target="_blank">Web link in bio</a>
 </p>
 
 ---
-- 🌱 I am currently learning SQL and C.
-- 💬 I am learning English.
-- 🔭 I am working on personal projects.
-- 😄 Pronouns: He/Him.
-- ⚡ Hobbies: I like to play retro games, listen music and code.
 
-### Languages & tools:
-<p align="left">
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
-<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim" />
-</p>
+Hola, soy Víctor. Un chico de 16 años que le encanta la programación, hace algunos streams y que cada vez que puede, programa para probar y hacer cosas nuevas.
 
-<!--
-**uShawnTS/uShawnTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Por los momentos, sigo aprendiendo inglés ya que es un lenguaje que me gusta mucho.
 
-Here are some ideas to get you started:
+Comúnmente, me encuentro programando en lenguajes cómo JavaScript / TypeScript y Python. Aparte de estos lenguajes, también alguna que otra vez programo páginas webs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante mi aprendizaje, quiero aprender lenguajes cómo C/C++, C#, Bash Script (¿por qué no?), manejo de bases de datos SQL y aprender a usar algún framework importante de los lenguajes que frecuento usar.
+
+### Algunos de mis proyectos son:
+`-` [Moonlight](https://github.com/barrientosvctor/Moonlight)
+
+`-` [DJ Bot](https://github.com/barrientosvctor/DJBot)
+
+`-` [abyss.vim](https://github.com/barrientosvctor/abyss.vim)
+
+`-` [DiscordCustomRP](https://github.com/barrientosvctor/DiscordCustomRP)
+
+**Gracias por leer este mensaje y espero encuentres útil este perfil que poco a poco voy construyendo.**
