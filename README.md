@@ -1,9 +1,8 @@
 <h3 align="center">👋 Hola, bienvenido a mi perfil!</h3>
 <p align="center">
+    <a href="https://youtube.com/@_uShawn" target="_blank">YouTube</a> •
     <a href="https://twitch.tv/ushawnn" target="_blank">Twitch</a> •
-    <a href="https://steamcommunity.com/profiles/76561199192771221" target="_blank">Steam</a> •
-    <a href="https://discord.com/users/617173543582433280" target="_blank">Discord</a> •
-    <a href="https://barrientosvctor.netlify.app" target="_blank">Web link in bio</a>
+    <a href="https://steamcommunity.com/profiles/76561199192771221" target="_blank">Steam</a>
 </p>
 
 ---
@@ -21,7 +20,7 @@ Durante mi aprendizaje, quiero aprender lenguajes cómo C/C++, C#, Bash Script (
 
 `-` [DJ Bot](https://github.com/barrientosvctor/DJBot)
 
-`-` [abyss.vim](https://github.com/barrientosvctor/abyss.vim)
+`-` [abyss.nvim](https://github.com/barrientosvctor/abyss.nvim)
 
 `-` [DiscordCustomRP](https://github.com/barrientosvctor/DiscordCustomRP)
 
