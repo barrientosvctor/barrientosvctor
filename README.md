@@ -1,9 +1,4 @@
 <h3 align="center">👋 Hola, bienvenido a mi perfil!</h3>
-<p align="center">
-    <a href="https://youtube.com/@_uShawn" target="_blank">YouTube</a> •
-    <a href="https://twitch.tv/ushawnn" target="_blank">Twitch</a> •
-    <a href="https://steamcommunity.com/profiles/76561199192771221" target="_blank">Steam</a>
-</p>
 
 ---
 
