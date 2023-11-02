@@ -2,7 +2,7 @@
 
 ---
 
-Hola, soy Víctor. Un chico de 16 años que le encanta la programación, hace algunos streams y que cada vez que puede, programa para probar y hacer cosas nuevas.
+Hola, soy Víctor. Un chico de 16 años que le encanta la programación y que cada vez que puede, programa para probar y hacer cosas nuevas.
 
 Por los momentos, sigo aprendiendo inglés ya que es un lenguaje que me gusta mucho.
 
