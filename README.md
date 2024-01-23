@@ -12,7 +12,7 @@ If you wish to contact me, please send an email to vibarrientosp@outlook.es or s
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,bash,nodejs,bots&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,bash,nodejs,bots&theme=dark&perline=5" alt="My skills" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ If you wish to contact me, please send an email to vibarrientosp@outlook.es or s
         srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=light&include_all_commits=true&count_private=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&include_all_commits=true&count_private=true" alt="Profile summary" />
     </picture>
 
   <picture>
@@ -41,7 +41,7 @@ If you wish to contact me, please send an email to vibarrientosp@outlook.es or s
     srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8" alt="Top languages" />
 </picture>
   </a>
 </p>
