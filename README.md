@@ -20,7 +20,7 @@ If you wish to contact me, please send an email to vibarrientosp@outlook.es or s
 
 <p align="center">
   <a href="https://github.com/barrientosvctor">
-    <picture>
+    <picture sizes="180em">
       <source
         srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
         media="(prefers-color-scheme: dark)"
@@ -29,10 +29,10 @@ If you wish to contact me, please send an email to vibarrientosp@outlook.es or s
         srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=light&include_all_commits=true&count_private=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&include_all_commits=true&count_private=true" alt="Profile summary" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&include_all_commits=true&count_private=true" alt="Profile summary" />
     </picture>
 
-  <picture>
+  <picture sizes="180em">
   <source
     srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -41,7 +41,7 @@ If you wish to contact me, please send an email to vibarrientosp@outlook.es or s
     srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8" alt="Top languages" />
 </picture>
   </a>
 </p>
