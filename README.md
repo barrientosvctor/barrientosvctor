@@ -6,7 +6,11 @@
 
 If you wish to contact me, please send an email to vibarrientosp@outlook.es or send me a direct message on Twitter.
 
-[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/barrientosvctor)
+<p>
+  <a href="https://x.com/barrientosvctor" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+</p>
 
 <h2 align="center">🧠 Knowledge</h2>
 
