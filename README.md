@@ -4,7 +4,7 @@
 
 👋 Hello, My name's <b>Victor Barrientos</b>, a <b>Backend developer</b> in Colombia, native Spanish speaker and B1 English speaker.
 
-If you wish to contact me, please send an email to vibarrientosp@outlook.es or send me a direct message on Twitter.
+If you wish to contact me, please send an email to vibarrientosp@gmail.com or send me a direct message on Twitter.
 
 [![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/barrientosvctor)
 
