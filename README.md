@@ -1,22 +1,47 @@
-<h3 align="center">👋 Hola, bienvenido a mi perfil!</h3>
+<h1 align="center">Welcome to my <a href="https://github.com/barrientosvctor">GitHub</a> profile! 👋</h1>
 
----
+<h2 align="center">🧑 About me</h2>
 
-Hola, soy Víctor. Un chico de 16 años que le encanta la programación y que cada vez que puede, programa para probar y hacer cosas nuevas.
+👋 Hello, My name's <b>Victor Barrientos</b>, a <b>Backend developer</b> in Colombia, native Spanish speaker and B1 English speaker.
 
-Por los momentos, sigo aprendiendo inglés ya que es un lenguaje que me gusta mucho.
+If you wish to contact me, please send an email to vibarrientosp@outlook.es or send me a direct message on Twitter.
 
-Comúnmente, me encuentro programando en lenguajes cómo JavaScript / TypeScript y Python. Aparte de estos lenguajes, también alguna que otra vez programo páginas webs.
+[![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/barrientosvctor)
 
-Durante mi aprendizaje, quiero aprender lenguajes cómo C/C++, C#, Bash Script (¿por qué no?), manejo de bases de datos SQL y aprender a usar algún framework importante de los lenguajes que frecuento usar.
+<h2 align="center">🧠 Knowledge</h2>
 
-### Algunos de mis proyectos son:
-`-` [Moonlight](https://github.com/barrientosvctor/Moonlight)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,bash,nodejs,bots&theme=dark&perline=5" alt="My skills" />
+  </a>
+</p>
 
-`-` [DJ Bot](https://github.com/barrientosvctor/DJBot)
+<h2 align="center">📊 GitHub Analytics</h2>
 
-`-` [abyss.nvim](https://github.com/barrientosvctor/abyss.nvim)
+<p align="center">
+  <a href="https://github.com/barrientosvctor">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=light&include_all_commits=true&count_private=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&include_all_commits=true&count_private=true" alt="Profile summary" />
+    </picture>
 
-`-` [DiscordCustomRP](https://github.com/barrientosvctor/DiscordCustomRP)
-
-**Gracias por leer este mensaje y espero encuentres útil este perfil que poco a poco voy construyendo.**
+  <picture>
+  <source
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barrientosvctor&layout=compact&langs_count=8" alt="Top languages" />
+</picture>
+  </a>
+</p>
