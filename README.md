@@ -22,14 +22,14 @@ If you wish to contact me, please send an email to vibarrientosp@gmail.com or se
   <a href="https://github.com/barrientosvctor">
     <picture sizes="180em">
       <source
-        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=dark&include_all_commits=true&count_private=false"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=light&include_all_commits=true&count_private=true"
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&theme=light&include_all_commits=true&count_private=false"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&include_all_commits=true&count_private=true" alt="Profile summary" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barrientosvctor&show_icons=true&include_all_commits=true&count_private=false" alt="Profile summary" />
     </picture>
 
   <picture sizes="180em">
